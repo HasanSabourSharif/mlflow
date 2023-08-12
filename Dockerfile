@@ -5,7 +5,7 @@ WORKDIR /app
 COPY ./requirements.txt .
 
 RUN python3 -m pip install -r ./requirements.txt
-
+RUN model.py
 RUN pip install mlflow
 EXPOSE 80
 
