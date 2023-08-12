@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hasan/Desktop/tf/mlruns/0/85e8963385e44a2ab785837271babe63/artifacts
+end_time: 1691769542262
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85e8963385e44a2ab785837271babe63
+run_name: learned-chimp-137
+run_uuid: 85e8963385e44a2ab785837271babe63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691769542231
+status: 3
+tags: []
+user_id: Hasan

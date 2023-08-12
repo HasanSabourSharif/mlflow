@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hasan/Desktop/tf/mlruns/0/5da60a9f5e434897a3387a15897bad95/artifacts
+end_time: 1691761636662
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5da60a9f5e434897a3387a15897bad95
+run_name: casual-goose-430
+run_uuid: 5da60a9f5e434897a3387a15897bad95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691761628586
+status: 3
+tags: []
+user_id: Hasan
